@@ -1,0 +1,3 @@
+project=bookshelf_hanami
+test=rspec
+template=erb
