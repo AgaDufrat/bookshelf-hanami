@@ -1,6 +1,6 @@
 # Bookshelf Hanami
 
-Welcome to your new Hanami project!
+Simple project using Hanami web framework. It's architecture is heavily inspired by [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ## Setup
 
